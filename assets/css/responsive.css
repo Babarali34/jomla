@@ -1,0 +1,76 @@
+.fa-bars
+{font-size: 35px;color: var(--main-color);}
+
+
+@media  (max-width: 768px) {
+           
+
+
+            .header-part  .navigation .top-navbar
+            {display: none;}
+
+            .landing-content
+			{width: 100%;overflow: hidden;
+			padding: 20px 0;text-align: center;}
+			.domains
+			{display: none;}
+
+			.land-img2,.land-img1
+			{display: none;}
+			.customer-counter
+			{width: 100%;
+				
+			top:90%;left: 0%;right: 0%;margin-top: 80px;
+			padding: 50px 0;}
+           
+ 	      .featur-img
+           {padding: 70px 45%;}
+
+            .feature-right
+              {text-align: center;}
+
+              .section-tabs2
+                 {padding: 100px  0;
+                 	text-align: center;}
+
+                .half-circle{
+                 height: 150px;
+
+                } 	
+                .pricing-text
+                {text-align: center;}
+           
+                   
+   .testimonial-img .img
+     {width: 100px;height: 100px;border-radius: 50%;background: #000;
+    margin: auto;} 
+
+    .footer-navbar ul li
+    { display: inline-block;
+             padding: 0 5px; line-height: 80px;
+             text-align: center;}
+
+             footer
+             { text-align: center;
+             	overflow: hidden;}
+
+
+             	.footer-nav
+             {height:auto;background: #4e6687;overflow: hidden;}
+
+                 .footer-navbar ul li
+					{ display: block;
+					padding: 0 5px;  color:#fff;
+					 line-height: 30px;}
+
+					 .footer-navbar ul li a
+                    { color: #fff;}
+                    .copytext p
+                    {color: #fff;
+                        
+               
+
+               }
+                    }
+					
+			 
